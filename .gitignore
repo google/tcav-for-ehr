@@ -1,0 +1,4 @@
+.vscode
+.conda_env
+datasets
+model_checkpoints
