@@ -1,7 +1,7 @@
 # Concept-based model explanations for Electronic Health Records
 
 This repository contains code to replicate the end-to-end experimental workflow
-discussed in the eponymous paper.
+discussed in the eponymous paper ([arxiv]((https://arxiv.org/abs/2012.02308))).
 
 Abstract: Recurrent Neural Networks (RNNs) are often used for sequential
 modeling of adverse outcomes in electronic health records (EHRs) due to their
