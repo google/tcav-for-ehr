@@ -84,12 +84,6 @@ the same call to `generate_dataset.py`. All combinations of dataset and scaling
 type will be created. Files are saved in `export_dir`, under the name
 `<dataset>_<scaling_type>_v003_<date>_<time>_<suffix>.pkl`
 
-**This needs updating with latest colab once it is finished** The Python
-notebook `Synthetic_dataset_illustration.ipynb` allows exploring some of the
-dataset generation parameters and illustrates the type of sequences that are
-generated. The last cell also displays an example of a dataset being generated
-and saved locally and leads to the same results as using the above script.
-
 ### Building and training models
 
 The following command builds a RNN model and trains it using the previously
